@@ -1,0 +1,3 @@
+The first IR_remote_moduel ino file is the arduino code
+The other three circle, serial and IR_remote processing file. The IR_remote_fixed is the image used by the above program to run so place it in the processing ide folder to work. Also IR_remote is the main file and the other are modules
+The proteus file is the schematic of the circuit itself
